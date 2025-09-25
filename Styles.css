@@ -1,13 +1,26 @@
 /*HEADER*/
-
+header{
+	padding-top: 52px ;
+	margin: auto;
+	margin-bottom: 59.66px;
+	border: 2px solid red;
+	max-width: 1640px;
+}
 header a {
 	color: #707070;
 	font-size: 20px;
 	letter-spacing: 0.2px;
+	margin-left: 53px;
 }
 
 
 /*MAIN*/
+section{
+	margin: auto;
+	margin-bottom: 60px;
+	border: 2px solid red;
+	max-width: 1640px
+}
 .main-foto{
 	max-width: 100%;
 	object-fit: cover;
@@ -20,6 +33,7 @@ footer{
 footer a{
 	font-size: 13px;
 	letter-spacing: 0.13px;
+	margin-left: 43.95px;
 }
 .footer-logo{
 	color: #F8F8F8;
@@ -42,4 +56,5 @@ footer a{
 }
 .logo{
 	max-width: 43.95px;
+
 }
